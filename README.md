@@ -7,6 +7,7 @@
        $ pkg update && pkg upgrade
        $ pkg install python 
        $ pkg install git
+       $ pkg install play-audio
        $ git clone https://github.com/kicoet/KIC
        $ cd KIC
        $ pip install -r requirements.txt
